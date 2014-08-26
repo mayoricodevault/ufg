@@ -391,13 +391,13 @@
     <div id="clients">
       <div class="container">
         <div id="owl-clients" class="owl-carousel owl-theme">
-          <div class="item"><a href="#."><img src="images/c_img_1.jpg" alt=""></a></div>
-          <div class="item"><a href="#."><img src="images/c_img_2.jpg" alt=""></a></div>
-          <div class="item"><a href="#."><img src="images/c_img_3.jpg" alt=""></a></div>
-          <div class="item"><a href="#."><img src="images/c_img_4.jpg" alt=""></a></div>
-          <div class="item"><a href="#."><img src="images/c_img_1.jpg" alt=""></a></div>
-          <div class="item"><a href="#."><img src="images/c_img_2.jpg" alt=""></a></div>
-          <div class="item"><a href="#."><img src="images/c_img_3.jpg" alt=""></a></div>
+          <div class="item"><a href="#."><img src="theme/images/c_img_1.jpg" alt=""></a></div>
+          <div class="item"><a href="#."><img src="theme/images/c_img_2.jpg" alt=""></a></div>
+          <div class="item"><a href="#."><img src="theme/images/c_img_3.jpg" alt=""></a></div>
+          <div class="item"><a href="#."><img src="theme/images/c_img_4.jpg" alt=""></a></div>
+          <div class="item"><a href="#."><img src="theme/images/c_img_1.jpg" alt=""></a></div>
+          <div class="item"><a href="#."><img src="theme/images/c_img_2.jpg" alt=""></a></div>
+          <div class="item"><a href="#."><img src="theme/images/c_img_3.jpg" alt=""></a></div>
         </div>
       </div>
     </div>
