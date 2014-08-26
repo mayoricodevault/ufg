@@ -154,7 +154,7 @@
                   data-elementdelay="0.08"
                   data-endelementdelay="0.08"
                   data-endspeed="500"
-                  style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Perfect Learning Systems </div>
+                  style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Perfect Financial Guidance </div>
               
               <!-- LAYER NR. 2 -->
               <div class="tp-caption customin customout"
