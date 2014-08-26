@@ -17,7 +17,7 @@
                 <li><a href="#banner">HOME</a></li>
                 <li><a href="#det_fea">Features</a></li>
                 <li><a href="#portfolio">Classes </a></li>
-                <li><a href="#achievements">Process </a></li>
+                <li><a href="#process">Process </a></li>
                 <li><a href="#testimonial">Testimonials </a></li>
                 <li><a href="#footer">Contact </a></li>
               </ul>
