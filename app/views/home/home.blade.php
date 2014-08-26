@@ -209,7 +209,7 @@
         <h2 class="wow tada" data-wow-delay="200ms">Test Learn Videos Play!</h2>
         <hr>
         <p class="align-center wow tada" data-wow-delay="400ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eros ligula, pulvinar ut porta ac, pharetra a mi. Mauris sed elit nec lectus venenatis condimentum nec vitae tellus. </p>
-        <!--<img class="img-responsive" src="images/vedio_img.png" alt="">-->
+        <!--<img class="img-responsive" src="theme/images/vedio_img.png" alt="">-->
         <div class="vedio_bg">
           <iframe src="http://player.vimeo.com/video/25541923?color=c9161f"></iframe>
         </div>
@@ -251,7 +251,7 @@
         <p>Select your Classes - Test Videos - Desing Lesson Video</p>
         <iframe src="http://player.vimeo.com/video/25541923?color=c9161f"></iframe>
         <div class="padding10_all"></div>
-        <div class="photo"> <img src="images/photo.png" alt="" >
+        <div class="photo"> <img src="theme/images/photo.png" alt="" >
           <h4>Kristina JUMPS</h4>
           <p>Math Teacher</p>
         </div>
@@ -287,7 +287,7 @@
             <ul class="items posts">
               
               <!--COURSES SECTION===========================================-->
-              <li class="item design lan draw"><span class="img"> <img src="images/img_1.jpg" alt=""></span>
+              <li class="item design lan draw"><span class="img"> <img src="theme/images/img_1.jpg" alt=""></span>
                 <div class="over"> <a href="#small-vedio" class="link popup-vedio"><i class="ion-arrow-right-b"></i></a> <a href="#small-dialog" class="zoom popup-with-move-anim"><i class="ion-folder"></i></a> <a href="#small-dialog" class="zoom zoom_1 popup-with-move-anim" > <i class="ion-document-text"></i></a> </div>
                 <div class="detail">
                   <div class="row">
@@ -303,7 +303,7 @@
               </li>
               
               <!--COURSES SECTION===========================================-->
-              <li class="item math lan draw"> <span class="img"> <img src="images/img_2.jpg" alt=""></span>
+              <li class="item math lan draw"> <span class="img"> <img src="theme/images/img_2.jpg" alt=""></span>
                 <div class="over"> <a href="#small-vedio" class="link popup-vedio"><i class="ion-arrow-right-b"></i></a> <a href="#small-dialog" class="zoom popup-with-move-anim"><i class="ion-folder"></i></a> <a href="#small-dialog" class="zoom zoom_1 popup-with-move-anim" > <i class="ion-document-text"></i></a> </div>
                 <div class="detail">
                   <div class="row">
@@ -319,7 +319,7 @@
               </li>
               
               <!--COURSES SECTION===========================================-->
-              <li class="item math design draw"> <span class="img"> <img src="images/img_3.jpg" alt=""></span>
+              <li class="item math design draw"> <span class="img"> <img src="theme/images/img_3.jpg" alt=""></span>
                 <div class="over"> <a href="#small-vedio" class="link popup-vedio"><i class="ion-arrow-right-b"></i></a> <a href="#small-dialog" class="zoom popup-with-move-anim"><i class="ion-folder"></i></a> <a href="#small-dialog" class="zoom zoom_1 popup-with-move-anim" > <i class="ion-document-text"></i></a> </div>
                 <div class="detail">
                   <div class="row">
@@ -335,7 +335,7 @@
               </li>
               
               <!--COURSES SECTION===========================================-->
-              <li class="item math design lan"> <span class="img"> <img src="images/img_5.jpg" alt=""></span>
+              <li class="item math design lan"> <span class="img"> <img src="theme/images/img_5.jpg" alt=""></span>
                 <div class="over"> <a href="#small-vedio" class="link popup-vedio"><i class="ion-arrow-right-b"></i></a> <a href="#small-dialog" class="zoom popup-with-move-anim"><i class="ion-folder"></i></a> <a href="#small-dialog" class="zoom zoom_1 popup-with-move-anim" > <i class="ion-document-text"></i></a> </div>
                 <div class="detail">
                   <div class="row">
@@ -351,7 +351,7 @@
               </li>
               
               <!--COURSES SECTION===========================================-->
-              <li class="item math design lan"><span class="img"> <img src="images/img_6.jpg" alt=""></span>
+              <li class="item math design lan"><span class="img"> <img src="theme/images/img_6.jpg" alt=""></span>
                 <div class="over"> <a href="#small-vedio" class="link popup-vedio"><i class="ion-arrow-right-b"></i></a> <a href="#small-dialog" class="zoom popup-with-move-anim"><i class="ion-folder"></i></a> <a href="#small-dialog" class="zoom zoom_1 popup-with-move-anim" > <i class="ion-document-text"></i></a> </div>
                 <div class="detail">
                   <div class="row">
@@ -367,7 +367,7 @@
               </li>
               
               <!--COURSES SECTION===========================================-->
-              <li class="item math design lan"><span class="img"> <img src="images/img_4.jpg" alt=""></span>
+              <li class="item math design lan"><span class="img"> <img src="theme/images/img_4.jpg" alt=""></span>
                 <div class="over"> <a href="#small-vedio" class="link popup-vedio"><i class="ion-arrow-right-b"></i></a> <a href="#small-dialog" class="zoom popup-with-move-anim"><i class="ion-folder"></i></a> <a href="#small-dialog" class="zoom zoom_1 popup-with-move-anim" > <i class="ion-document-text"></i></a> </div>
                 <div class="detail">
                   <div class="row">
@@ -455,7 +455,7 @@
           </div>
           <div class="item red">
             <div class="testi">
-              <div class="avatar"><img src="images/testi-img.png" alt=""></div>
+              <div class="avatar"><img src="theme/mages/testi-img.png" alt=""></div>
               <h4>John DOES</h4>
               <hr>
               <p class="padding10_bottom">Computer Teacher</p>
@@ -482,7 +482,7 @@
         <p class="padding-5per align-center wow tada" data-wow-delay="400ms">You'll earn badges as you journey through our extensive library of courses. These badges are an indicator of what skills you currently possess and are viewable by anyone online.</p>
         <div id="owl-feed">
           <div class="feedback">
-            <div class="avatar"> <img src="images/testi-img-3.png" alt=""> </div>
+            <div class="avatar"> <img src="theme/images/testi-img-3.png" alt=""> </div>
             <h3>There are many variations of passages of lorem ipsum the lorem gorem merem.</h3>
             <h5>John DOE - Gamerging Studio</h5>
           </div>
