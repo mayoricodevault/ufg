@@ -1,8 +1,8 @@
 @extends('master/container')
-<meta name="description" content="{{ $page->meta_description }}">
-<meta name="keywords" content="{{ $page->meta_keywords }}">
-<meta name="author" content="{{ $page->meta_author }}">
-<meta property="og:title" content="{{ ucfirst($page->meta_description) }} - {{ siteSettings('siteName') }}"/>
+<meta name="description" content="{{ $meta_description }}">
+<meta name="keywords" content="{{ $meta_keywords }}">
+<meta name="author" content="{{ $meta_author }}">
+<meta property="og:title" content="{{ ucfirst($meta_description) }} - {{ $sitename }}"/>
 @stop
 @section('content')
 <div id="content">

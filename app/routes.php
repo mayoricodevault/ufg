@@ -13,7 +13,15 @@
 
 Route::get('/', function()
 {
-	return View::make('home/home');
+    $meta_descripton = "";
+    $meta_keywords="";
+    $meta_author="Redefined Ind.";
+    $sitename = "UfGuidance";
+	return View::make('home/home')
+        ->with('meta_descripton', $meta_descripton)
+        ->with('meta_keywords',$meta_keywords)
+        ->with('meta_author', $meta_author)
+        ->with('sitename', $sitename );
 });
 
 
