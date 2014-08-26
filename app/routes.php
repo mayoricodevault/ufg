@@ -13,7 +13,7 @@
 
 Route::get('/', function()
 {
-	return View::make('home.home');
+	return View::make('home/home');
 });
 
 
