@@ -179,10 +179,10 @@
     </section>
     
     <!--======= Achievements Section =========-->
-    <section id="achievements" class="bg_color_2">
+    <section id="process" class="bg_color_2">
       <div class="container">
         <div class="row">
-          <div class="col-md-6"> <img class="img-responsive" src="images/hand_iphone.png" alt=""> </div>
+          <div class="col-md-6"> <img class="img-responsive" src="theme/images/hand_iphone.png" alt=""> </div>
           <div class="col-md-2">
             <ul class="icon_sec wow flipInX" data-wow-delay="400ms">
               <li class="icon"> <i class="ion-ios7-filing"></i> </li>
@@ -191,13 +191,12 @@
             </ul>
           </div>
           <div class="col-md-4">
-            <h3><span>Learn</span> Achievements</h3>
+            <h3><span>Learn</span> Process</h3>
             <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eros ligula, pulvinar ut porta ac, pharetra a mi. Mauris sed elit nec lectus venenatis condimentum nec vitae tellus. Morbi lacinia sollicitudin scelerisque.</p>
             <br>
             <p> Fusce dignissim ac nisi a laoreet.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. </p>
             <br>
             <p> Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. pulvinar ut porta ac, pharetra a mi. Mauris sed elit nec lectus venenatis condimentum nec vitae tellus. Morbi lacinia sollicitudin scelerisque. </p>
-            <a href="#." class="btn bg_color_3">DOWNLOAD NOW!</a> <a href="#." class="btn btn-border">LEARN MORE</a>
             <div class="clearfix"></div>
           </div>
         </div>
@@ -229,7 +228,7 @@
           <li><span><i class="ion-folder"></i> Lesson Titlename File - Lessons Programs.exe</span><span>File Size  :   1.52 GB </span><span>Download  Time  : 30 Munite</span> <span><a href="#."><i class="ion-arrow-down-b"></i></a></span> </li>
           <li><span><i class="ion-folder"></i> Lesson Titlename File - Lessons Programs.exe</span><span>File Size  :   1.52 GB </span><span>Download  Time  : 30 Munite</span> <span><a href="#."><i class="ion-arrow-down-b"></i></a></span> </li>
         </ul>
-        <div class="photo"> <img src="images/photo.png" alt="" >
+        <div class="photo"> <img src="theme/images/photo.png" alt="" >
           <h4>Kristina JUMPS</h4>
           <p>Math Teacher</p>
         </div>
@@ -411,23 +410,20 @@
         <div id="owl-teacher">
           <div class="item">
             <div class="testi">
-              <div class="avatar"><img src="images/testi-img-1.png" alt=""></div>
+              <div class="avatar"><img src="theme/images/testi-img-1.png" alt=""></div>
               <h4>John DOES</h4>
               <hr>
               <p class="padding10_bottom">Computer Teacher</p>
               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer.</p>
               <ul class="social_icons">
                 <li  class="facebook"><a href="#."><i class="ion-social-facebook"></i></a></li>
-                <li class="twitter"><a href="#."><i class="ion-social-twitter"></i></a></li>
-                <li class="dribbble"><a href="#."><i class="ion-social-dribbble"></i></a></li>
                 <li class="googleplus"><a href="#."><i class="ion-social-googleplus"></i></a></li>
-                <li class="linkedin"><a href="#."><i class="ion-social-linkedin"></i></a></li>
               </ul>
             </div>
           </div>
           <div class="item red">
             <div class="testi">
-              <div class="avatar"><img src="images/testi-img-2.png" alt=""></div>
+              <div class="avatar"><img src="theme/images/testi-img-2.png" alt=""></div>
               <h4>John DOES</h4>
               <hr>
               <p class="padding10_bottom">Computer Teacher</p>
@@ -440,27 +436,21 @@
               </div>
               <ul class="social_icons">
                 <li  class="facebook"><a href="#."><i class="ion-social-facebook"></i></a></li>
-                <li class="twitter"><a href="#."><i class="ion-social-twitter"></i></a></li>
-                <li class="dribbble"><a href="#."><i class="ion-social-dribbble"></i></a></li>
                 <li class="googleplus"><a href="#."><i class="ion-social-googleplus"></i></a></li>
-                <li class="linkedin"><a href="#."><i class="ion-social-linkedin"></i></a></li>
               </ul>
             </div>
           </div>
           <div class="item">
             <div class="testi">
-              <div class="avatar"><img src="images/testi-img-3.png" alt=""></div>
+              <div class="avatar"><img src="theme/images/testi-img-3.png" alt=""></div>
               <h4>John DOES</h4>
               <hr>
               <p class="padding10_bottom">Computer Teacher</p>
               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500 when an unknown printer.</p>
               <ul class="social_icons">
                 <li  class="facebook"><a href="#."><i class="ion-social-facebook"></i></a></li>
-                <li class="twitter"><a href="#."><i class="ion-social-twitter"></i></a></li>
-                <li class="dribbble"><a href="#."><i class="ion-social-dribbble"></i></a></li>
                 <li class="googleplus"><a href="#."><i class="ion-social-googleplus"></i></a></li>
-                <li class="linkedin"><a href="#."><i class="ion-social-linkedin"></i></a></li>
-              </ul>
+                <li class="linkedin"><a href="#."><i class="ion-social-linkedin"></i></a></li>7
             </div>
           </div>
           <div class="item red">
@@ -478,10 +468,7 @@
               </div>
               <ul class="social_icons">
                 <li  class="facebook"><a href="#."><i class="ion-social-facebook"></i></a></li>
-                <li class="twitter"><a href="#."><i class="ion-social-twitter"></i></a></li>
-                <li class="dribbble"><a href="#."><i class="ion-social-dribbble"></i></a></li>
                 <li class="googleplus"><a href="#."><i class="ion-social-googleplus"></i></a></li>
-                <li class="linkedin"><a href="#."><i class="ion-social-linkedin"></i></a></li>
               </ul>
             </div>
           </div>
@@ -500,17 +487,17 @@
             <h5>John DOE - Gamerging Studio</h5>
           </div>
           <div class="feedback">
-            <div class="avatar"> <img src="images/testi-img-2.png" alt=""> </div>
+            <div class="avatar"> <img src="theme/images/testi-img-2.png" alt=""> </div>
             <h3>There are many variations of passages of lorem ipsum the lorem gorem merem.</h3>
             <h5>John DOE - Gamerging Studio</h5>
           </div>
           <div class="feedback">
-            <div class="avatar"> <img src="images/testi-img-4.png" alt=""> </div>
+            <div class="avatar"> <img src="theme/images/testi-img-4.png" alt=""> </div>
             <h3>There are many variations of passages of lorem ipsum the lorem gorem merem.</h3>
             <h5>John DOE - Gamerging Studio</h5>
           </div>
           <div class="feedback">
-            <div class="avatar"> <img src="images/testi-img-1.png" alt=""> </div>
+            <div class="avatar"> <img src="theme/images/testi-img-1.png" alt=""> </div>
             <h3>There are many variations of passages of lorem ipsum the lorem gorem merem.</h3>
             <h5>John DOE - Gamerging Studio</h5>
           </div>
