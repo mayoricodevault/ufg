@@ -42,11 +42,7 @@
         <div class="links">
         <nav>
           <ul>
-            <li>© 2014 Copyright - LearnGo</li>
-            <li><a href="#.">Terms & Conditions</a></li>
-            <li><a href="#.">Privacy Policy </a></li>
-            <li><a href="#."> API License Agreement </a></li>
-            <li> Created by <a href="#.">GokhanKara</a></li>
+            <li>© 2014 Copyright - Redefined Ind.</li>
           </ul>
          </nav>
         </div>

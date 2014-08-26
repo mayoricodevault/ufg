@@ -2,8 +2,7 @@
     <div class="container">
       <div class="logo"> <a href="#wrap"> <img src="theme/images/logo.png" alt=""> </a> </div>
       <ul class="social_icons">
-        <li  class="facebook"> <a href="#."><i class="ion-social-facebook"></i> </a> </li>
-        <li class="googleplus"> <a href="#."><i class="ion-social-googleplus"></i> </a> </li>
+        <li  class="facebook"> <a href="http://www.facebook.com/ufguidance"><i class="ion-social-facebook"></i> </a> </li>
       </ul>
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="ion-navicon-round"></span> </button>
