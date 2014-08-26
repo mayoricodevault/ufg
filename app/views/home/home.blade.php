@@ -144,7 +144,7 @@
           
           <!--======= Slide 1 =========-->
           <div class="row item">
-            <div class="col-md-6"> <img class="img-responsive" src="images/browser_img.png" alt=""> </div>
+            <div class="col-md-6"> <img class="img-responsive" src="theme/images/browser_img.png" alt=""> </div>
             <div class="col-md-6 text_sec">
               <div class="icon"> <i class="ion-android-data"></i> </div>
               <h3>Perfect Lessons System</h3>
@@ -155,7 +155,7 @@
           
           <!--======= SLIDE 2 =========-->
           <div class="row item">
-            <div class="col-md-6"> <img class="img-responsive" src="images/browser_img.png" alt=""> </div>
+            <div class="col-md-6"> <img class="img-responsive" src="theme/images/browser_img.png" alt=""> </div>
             <div class="col-md-6 text_sec">
               <div class="icon"> <i class="ion-android-data"></i> </div>
               <h3>Perfect Lessons System</h3>
@@ -166,7 +166,7 @@
           
           <!--======= SLIDE 2 =========-->
           <div class="row item">
-            <div class="col-md-6"> <img class="img-responsive" src="images/browser_img.png" alt=""> </div>
+            <div class="col-md-6"> <img class="img-responsive" src="theme/images/browser_img.png" alt=""> </div>
             <div class="col-md-6 text_sec">
               <div class="icon"> <i class="ion-android-data"></i> </div>
               <h3>Perfect Lessons System</h3>
