@@ -455,7 +455,7 @@
           </div>
           <div class="item red">
             <div class="testi">
-              <div class="avatar"><img src="theme/mages/testi-img.png" alt=""></div>
+              <div class="avatar"><img src="theme/images/testi-img.png" alt=""></div>
               <h4>John DOES</h4>
               <hr>
               <p class="padding10_bottom">Computer Teacher</p>
