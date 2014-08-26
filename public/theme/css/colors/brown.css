@@ -1,0 +1,524 @@
+/*------------------------------------------------------------------
+
+COLOR:	BLUE
+
+-------------------------------------------------------------------*/
+
+h1 {
+	color: #656565;
+}
+h2 {
+	color: #987654;
+}
+h3 {
+	color: #fff;
+}
+h4 {
+	color: #fff;
+}
+h5 {
+	color: #987654;
+}
+h6 {
+	font-size: 14px;
+}
+p {
+	color: #fff;
+	line-height: 25px;
+}
+hr {
+	border-color: #987654;
+}
+/*=======================================================
+			BG COLOURS
+========================================================*/
+.bg_color_1 {
+	background: #987654;
+}
+.bg_color_2 {
+	background: #4b4b4b;
+}
+.bg_color_3 {
+	background: #987654;
+}
+.bg_color_4 {
+	background: #987654;
+}
+.bg_color_5 {
+	background: #987654;
+}
+/*=======================================================
+			HEADER
+========================================================*/
+header {
+	border-bottom: 1px solid #bfbfbf;
+	background: #fff;
+}
+/*=======================================================
+			BANNER
+========================================================*/
+#banner .btn {
+	background: #987654;
+}
+#banner .btn_blue {
+	background: #4b4b4b;
+}
+/*=======================================================
+			Details Features Tabs
+========================================================*/
+#det_fea i {
+	color: #fff;
+}
+.features h4 {
+	color: #fff;
+	display: inline-block;
+	line-height: 60px;
+}
+.features_bg {
+	background: #9c9e9f; /* Old browsers */
+	background: -moz-linear-gradient(left, #987654 0%, #987654 50%, #33ccff 50%, #987654 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%, #987654), color-stop(50%, #987654), color-stop(50%, #987654), color-stop(100%, #987654)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left, #9c9e9f 0%, #9c9e9f 50%, #987654 50%, #987654 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left, #987654 0%, #987654 50%, #987654 50%, #987654 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left, #987654 0%, #987654 50%, #987654 50%, #987654 100%); /* IE10+ */
+	background: linear-gradient(to right, #987654 0%, #987654 50%, #987654 50%, #987654 100%); /* W3C */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9c9e9f', endColorstr='#33ccff', GradientType=1 ); /* IE6-9 */
+	position: relative;
+	z-index: 99;
+}
+.features_bg:after {
+	background-color: white;
+}
+.learngo {
+	padding: 60px 0;
+}
+.learngo h4.border {
+	border-bottom: 1px solid #fff;
+}
+.learngo span {
+	color: #987654;
+}
+.features_services .icon i {
+	border: 4px solid #987654;
+}
+.account .features_services span {
+	color: #fff;
+}
+/*=======================================================
+			Perfect Analitic Lessons
+========================================================*/
+#lesson h2 {
+	color: #fff;
+	text-align: left;
+}
+#lesson .icon i {
+	font-size: 70px;
+	color: #fff;
+}
+#lesson .btn:hover {
+	background: none;
+	border: 1px solid #fff;
+}
+#lesson .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+	background: #fff;
+	opacity: 1;
+}
+#lesson .owl-theme .owl-controls .owl-page span {
+	background: #fff;
+}
+/*=======================================================
+			achievements
+========================================================*/
+#achievements {
+	background:url(../../images/learn_bg_dark.jpg) fixed no-repeat;
+	background-size: cover;
+}
+#achievements li {
+	border: 4px solid #987654;
+}
+#achievements li:hover {
+	background: #987654;
+}
+#achievements h3 {
+	border-bottom: 1px solid #987654;
+}
+#achievements h3 span {
+	color: #987654;
+}
+#achievements .btn {
+	background: #987654;
+}
+#achievements .btn:hover {
+	background: #fff;
+	color: #987654;
+}
+#achievements .btn-border {
+	border: 1px solid #fff;
+}
+#achievements .btn-border:hover {
+	background: #fff;
+	color: #987654;
+}
+/*=======================================================
+			VEDIO SECTION
+========================================================*/
+#vedio {
+	padding: 50px 0;
+	background: -webkit-linear-gradient(top, #987654, #987654 80%, white 80%, white);
+	background: #cc0000; /* Old browsers */
+	background: -moz-linear-gradient(top, #987654 68%, #987654 80%, #ffffff 80%, #ffffff 80%, #ffffff 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(68%, #987654), color-stop(68%, #987654), color-stop(68%, #ffffff), color-stop(68%, #ffffff), color-stop(100%, #ffffff)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #987654 80%, #987654 80%, #ffffff 68%, #ffffff 68%, #ffffff 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #987654 80%, #987654 80%, #ffffff 80%, #ffffff 68%, #ffffff 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #987654 80%, #987654 80%, #ffffff 80%, #ffffff 68%, #ffffff 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #987654 80%, #987654 80%, #ffffff 80%, #ffffff 68%, #ffffff 100%); /* W3C */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#987654', endColorstr='#ffffff', GradientType=0 ); /* IE6-9 */
+}
+#vedio h2 {
+	color: #fff;
+}
+#vedio hr {
+	border-color: #fff;
+}
+#vedio p {
+	padding: 0 5%;
+}
+/*=======================================================
+			SELECT A CLASSES
+========================================================*/
+#portfolio p {
+	color: #616161;
+}
+.filter li a {
+	color: #c1c1c1;
+}
+.filter li a:hover {
+	background: #4b4b4b;
+	color: #fff;
+}
+.filter li a.active {
+	background: #4b4b4b;
+	color: #fff;
+}
+.filter li {
+	color: #616161;
+}
+.posts span.img {
+	border: 1px solid #8d8d8d;
+	background: #fff;
+}
+.posts div.over {
+	background-color: rgba(255,255,255,0.9);
+}
+.posts div a.link {
+	color: #fff;
+	background: #4b4b4b;
+}
+.posts div a.link:hover {
+	background: #fff;
+	color: #4b4b4b;
+}
+.posts div a.zoom {
+	color: #fff;
+	background: #4b4b4b;
+}
+.posts div a.zoom:hover {
+	background: #fff;
+	color: #4b4b4b;
+}
+.lesson_detail .posts div.over {
+	background: rgba(255,255,255,0.4);
+}
+.lesson_detail .detail span.time i {
+	background: #987654;
+	color: #fff;
+}
+.lesson_detail .detail .row .col-md-3 p {
+	color: #987654 !important;
+}
+/*=======================================================
+			CLIENTS SECTION
+========================================================*/
+
+#clients {
+	background: #f5f5f5;
+}
+#clients .owl-controls .owl-page, .owl-controls .owl-buttons div {
+	border: 1px solid #987654;
+	color: #987654;
+}
+/*=======================================================
+			PRICING TABLE
+========================================================*/
+
+#price_table {
+	background-color: #ececec;
+}
+#price_table p {
+	color: #616161;
+}
+#price_table li:nth-child(1) i {
+	background: #987654 !important;
+	color: #fff !important;
+}
+#price_table li .icons i {
+	background: #ededed;
+	color: #987654;
+}
+/*=======================================================
+			Lesson Professional Teachers
+========================================================*/
+#teachers {
+	background: #fff;
+}
+#teachers p {
+	color: #616161;
+}
+#teachers .testi {
+	background: #838383;
+}
+#teachers .avatar img {
+	border: 3px solid #838383;
+	background: #fff;
+}
+#teachers .social_icons li a {
+	background-color: transparent;
+	color: #fff !important;
+}
+#teachers .social_icons li a:hover {
+	background: #fff;
+	color: #987654 !important;
+}
+#teachers .social_icons li a:hover i {
+	color: #987654 !important;
+}
+#teachers .owl-controls .owl-page, .owl-controls .owl-buttons div {
+	border: 1px solid #987654;
+	color: #987654;
+}
+#teachers .red .testi {
+	background: #838383;
+}
+#teachers .red .avatar {
+	border-color: #987654;
+}
+#teachers .red .testi:hover {
+	background: #987654;
+}
+#teachers .red .testi:hover img {
+	border: 3px solid #987654;
+}
+#teachers .testi:hover {
+	background: #987654;
+}
+#teachers .testi:hover img {
+	border: 3px solid #987654;
+}
+/*=======================================================
+			testimonial
+========================================================*/
+#phone_number {
+	background-color: #2098a4;
+}
+/*=======================================================
+			NEWS LETTER
+========================================================*/
+#news {
+	background: #fff;
+}
+#news h1 span {
+	color: #987654;
+}
+#news input {
+	background: #987654;
+}
+#news hr {
+	color: #a0a0a0;
+}
+#news p {
+	color: #a0a0a0
+}
+/*=======================================================
+			FOOTER
+========================================================*/
+#footer {
+	background:url(../../images/footer_bg_dark.jpg) fixed no-repeat;
+	background-size:cover;
+}
+#footer label {
+	color: #696969;
+}
+#footer input.invalid, textarea.invalid {
+	border-color: #d5144d;
+}
+#footer input[type="submit"] {
+	background: #2e2e2e;
+	color: #fff;
+}
+#footer button {
+	background: #2e2e2e;
+}
+#footer input[type="submit"]:hover, button:hover {
+	background: #4a4a4a;
+}
+#footer .social_icons a:hover {
+	background: #fff;
+}
+#footer .social_icons a:hover i {
+	color: #31a6b1;
+}
+/*=======================================================
+			SOCIAL ICONS
+========================================================*/
+.social_icons a {
+	color: #919191 !important;
+	background: #fff;
+}
+.social_icons a:hover i {
+	color: #fff;
+}
+/*=======================================================
+			BUTTON STYLE
+========================================================*/
+.btn {
+	background: #fff;
+	color: #987654;
+}
+.btn:hover {
+	color: #fff;
+	background: #987654;
+}
+.btn_orange {
+	background: #987654;
+	color: #fff;
+}
+.btn_orange:hover {
+	background: #fff;
+	color: #987654;
+}
+button.btn {
+	background: #987654;
+}
+button.btn:hover {
+	color: #987654;
+	background: #fff;
+}
+/* Styles for dialog window */
+#small-dialog {
+	background: white;
+}
+#small-dialog h3 {
+	color: #987654;
+}
+#small-dialog p {
+	color: #6b6b6b;
+}
+#small-dialog .pop_up ul {
+	background: #e4e4e4;
+}
+#small-dialog li {
+	background: #987654;
+}
+#small-dialog li span:nth-child(2) {
+	border-left: 1px solid rgba(255,255,255,0.5);
+}
+#small-dialog li span:nth-child(3) {
+	border-left: 1px solid rgba(255,255,255,0.5);
+	border-right: 1px solid rgba(255,255,255,0.5);
+}
+#small-dialog li span:nth-child(4) i {
+	background: #fff;
+}
+#small-dialog .dark {
+	background: #4a4a4a;
+}
+#small-dialog .dark span:nth-child(3) {
+	border-left: 1px solid #626262;
+	border-right: 1px solid #626262;
+}
+#small-dialog .dark span:nth-child(2) {
+	border-left: 1px solid #626262;
+}
+#small-dialog .photo h4 {
+	color: #6b6b6b;
+}
+#small-dialog .rating {
+	border: 1px solid #987654;
+}
+#small-dialog .rating i {
+	color: #987654;
+}
+#small-dialog .details i {
+	background: #987654;
+	color: #fff;
+}
+#small-vedio {
+	background: white;
+}
+#small-vedio h3 {
+	color: #987654;
+}
+#small-vedio p {
+	color: #6b6b6b;
+}
+#small-vedio .pop_up ul {
+	background: #e4e4e4;
+}
+#small-vedio li {
+	background: #987654;
+}
+#small-vedio li span {
+	display: inline-block;
+}
+#small-dialog li span:nth-child(1) {
+	width: 60%;
+}
+#small-vedio li span:nth-child(1) i {
+	font-size: 30px;
+	margin-top: 8px;
+	float: left;
+	margin-left: 5px;
+	margin-right: 10px;
+}
+#small-vedio li span:nth-child(2) {
+	border-left: 1px solid rgba(255,255,255,0.5);
+}
+#small-vedio li span:nth-child(3) {
+	border-left: 1px solid rgba(255,255,255,0.5);
+	border-right: 1px solid rgba(255,255,255,0.5);
+}
+#small-vedio li span:nth-child(4) i {
+	background: #fff;
+}
+#small-vedio .photo h4 {
+	color: #6b6b6b;
+}
+#small-vedio .rating {
+	border: 1px solid #987654;
+}
+#small-vedio .rating i {
+	color: #987654;
+}
+#small-vedio .details i {
+	background: #987654;
+	color: #fff;
+}
+.styleswitcher {
+	background: #ffffff;
+	color: #595959;
+}
+.styleswitcher p {
+	color: #000 !important;
+}
+.stylebutton {
+	background: #fff;
+}
+#page-loader {
+	background: #987654;
+}
+.loader7:before {
+	background-color: #fff;
+}
+.loader7:after {
+	background-color: #fff;
+}
