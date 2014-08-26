@@ -25,13 +25,10 @@
 <div id="page-loader">
   <div class="loader7"> <img src="images/Preloader.gif" alt="" ></div>
 </div>-->
+<div id="wrap">
 @include('master/header')
-<div class="container-full">
-    @yield('content')
-</div>
-@include('master/footer')
-<div class="col-lg-12 text-center">
-    <div class="back-to-top"> <i class="ion-ios7-arrow-up"></i> </div>
+@include('master/banner')
+@yield('content')
 </div>
 {{ HTML::script('theme/js/jquery-1.9.1.min.js') }}
 {{ HTML::script('theme/js/wow.min.js') }}
