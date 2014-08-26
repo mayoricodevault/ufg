@@ -8,9 +8,9 @@
     <!--Fonts Online-->
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    {{ HTML::style('theme/rs-plugin/css/settings.css')
-    {{ HTML::style('theme/css/style.css')
-    {{ HTML::style('theme/css/colors/default.css')
+    {{ HTML::style('theme/rs-plugin/css/settings.css') }}
+    {{ HTML::style('theme/css/style.css') }}
+    {{ HTML::style('theme/css/colors/default.css') }}
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
