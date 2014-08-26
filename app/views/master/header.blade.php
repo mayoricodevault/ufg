@@ -21,7 +21,6 @@
                 <li><a href="#det_fea">Features</a></li>
                 <li><a href="#portfolio">Classes </a></li>
                 <li><a href="#achievements">Countdown </a></li>
-                <li class="miss"><a href="#price_table">Pricing </a></li>
                 <li><a href="#testimonial">Testimonials </a></li>
                 <li><a href="#footer">Contact </a></li>
               </ul>

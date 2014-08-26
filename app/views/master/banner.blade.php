@@ -5,7 +5,7 @@
           <ul>
             <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-delay="6000" > 
               <!-- MAIN IMAGE --> 
-              <img src="images/bg_slider_1.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat"> 
+              <img src="theme/images/bg_slider_1.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
               
               <!-- LAYER NR. 1 -->
               <div class="tp-caption large_bold_white customin customout tp-resizeme"
@@ -106,7 +106,7 @@
                   data-endspeed="500"
                   data-endeasing="Power4.easeIn"
                   data-captionhidden="on"
-                  style="z-index: 1;"><img src="images/iphone.png" alt=""> </div>
+                  style="z-index: 1;"><img src="theme/images/iphone.png" alt=""> </div>
               
               <!-- LAYER NR. 7 -->
               <div class="tp-caption lfb skewtoleft customout"
@@ -119,7 +119,7 @@
                   data-endspeed="500"
                   data-endeasing="Power4.easeIn"
                   data-captionhidden="on"
-                  style="z-index: 1;"><img src="images/ipad.png" alt=""> </div>
+                  style="z-index: 1;"><img src="theme/images/ipad.png" alt=""> </div>
               
               <!-- LAYER NR. 8 -->
               <div class="tp-caption lfb skewtoleft customout"
@@ -132,13 +132,13 @@
                   data-endspeed="500"
                   data-endeasing="Power4.easeIn"
                   data-captionhidden="on"
-                  style="z-index: 1;"><img src="images/mac.png" alt=""> </div>
+                  style="z-index: 1;"><img src="theme/images/mac.png" alt=""> </div>
             </li>
             
             <!-- Slide NR. 1 -->
             <li data-transition="random" data-slotamount="7" data-masterspeed="1000" data-delay="6000" > 
               <!-- MAIN IMAGE --> 
-              <img src="images/bg_slider_2.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> 
+              <img src="theme/images/bg_slider_2.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
               
               <!-- LAYER NR. 1 -->
               <div class="tp-caption large_bold_white customin customout tp-resizeme"
@@ -239,7 +239,7 @@
                   data-endspeed="500"
                   data-endeasing="Power4.easeIn"
                   data-captionhidden="on"
-                  style="z-index: 1;"><img class="img-responsive" src="images/banner_brows.png" alt=""> </div>
+                  style="z-index: 1;"><img class="img-responsive" src="theme/images/banner_brows.png" alt=""> </div>
             </li>
           </ul>
         </div>
