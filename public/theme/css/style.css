@@ -1147,8 +1147,6 @@ a.plus {
 #phone_number {
 	background-color: #2098a4;
 	padding: 50px 0;
-	background: url(../images/phone_bg.jpg) center no-repeat;
-	background-size: cover;
 }
 #phone_number .number span {
 	font-size: 72px;
