@@ -99,7 +99,7 @@
                   data-endspeed="500"
                   data-endeasing="Power4.easeIn"
                   style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap; color:#fff; font-size: 18px;  ">
-                <p>United Financial Guidance is an organization that provides financial education and guidance to the younger generations. Key elements of UFG teach the basic fundamentals of living a financially balanced life, no matter how much income you have. UFG teaches the youth how to organize, budget and save based on their own personal income.  </p>
+                <p>United Financial Guidance is an organization that provides financial education and guidance to the younger generations. </p>
               </div>
               
               <!-- LAYER NR. 2 -->
@@ -118,7 +118,7 @@
                   data-endspeed="500"
                   data-endeasing="Power4.easeIn"
                   style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap; color:#fff; font-size: 18px;  ">
-                <p>The organization was started by a young man in San Bernardino who witnessed a lot of his peers wasting money that they received from either FAFSA and/or parents. He noticed that those poor financial habits continued when they began advancing in their lives and careers</p>
+                <p>Key elements of UFG teach the basic fundamentals of living a financially balanced life, no matter how much income you have</p>
               </div>
 
 
