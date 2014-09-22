@@ -24,9 +24,8 @@
             <li class="col-md-4 bg_color_3 nopadding">
               <div class="icon wow bounceInUp" data-wow-duration="0.90s" data-wow-delay="600ms"> <i class="ion-ios7-videocam bg_color_3"></i> </div>
               <h4>PROCESS PLAN</h4>
-              <p>Young adults in high school who are planning to attend college will be shown how to maintain any income or earnings received during their college career. (Financial aid, grants, etc.) </p>
-              <p>Students from K-8 will also receive guidance through the lessons in children’s books, activities, and games, teaching the lost value of saving and planning for the future</p>
-                <p>In the process of teaching the young children, parents can also be educated on how they can plan for a better future not only for themselves but their children as well.</p>
+              <p>Tree Simple Steps</p>
+              <p>Educate - Guidance - Planning</p>
             </li>
           </ul>
         </div>
@@ -137,11 +136,9 @@
           </div>
           <div class="col-md-4">
             <h3><span>Learn</span> Process</h3>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eros ligula, pulvinar ut porta ac, pharetra a mi. Mauris sed elit nec lectus venenatis condimentum nec vitae tellus. Morbi lacinia sollicitudin scelerisque.</p>
-            <br>
-            <p> Fusce dignissim ac nisi a laoreet.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. </p>
-            <br>
-            <p> Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. pulvinar ut porta ac, pharetra a mi. Mauris sed elit nec lectus venenatis condimentum nec vitae tellus. Morbi lacinia sollicitudin scelerisque. </p>
+              <p>Young adults in high school who are planning to attend college will be shown how to maintain any income or earnings received during their college career. (Financial aid, grants, etc.) </p>
+              <p>Students from K-8 will also receive guidance through the lessons in children’s books, activities, and games, teaching the lost value of saving and planning for the future</p>
+              <p>In the process of teaching the young children, parents can also be educated on how they can plan for a better future not only for themselves but their children as well.</p>
             <div class="clearfix"></div>
           </div>
         </div>
