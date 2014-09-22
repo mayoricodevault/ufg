@@ -36,7 +36,7 @@
       <div class="learngo bg_color_2">
         <div class="container">
           <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-12">
               <h4 class="border">Learn<span>Go</span> Settings Features</h4>
               <p>It is a long established fact that a reader will be distracted by the readable content.</p>
               
@@ -47,91 +47,34 @@
                   <!--======= ICONS =========-->
                   <li class="col-md-6">
                     <div class="icon  wow bounceIn"  data-wow-delay="200ms" data-wow-iteration="2"> <i class="ion-help-buoy bg_color_3"></i> </div>
-                    <h4>7 / 24 Fast Ticket</h4>
-                    <p>What is UFG: An organization of young adults who have set out to educate and guide the youth to a successful, prosperous financial future. UFG works with a purpose to help the current youth and upcoming generations. </p>
+                    <h4>What is UFG</h4>
+                    <p>An organization of young adults who have set out to educate and guide the youth to a successful, prosperous financial future. UFG works with a purpose to help the current youth and upcoming generations. </p>
                   </li>
                   
                   <!--======= ICONS =========-->
                   <li class="col-md-6">
                     <div class="icon  wow bounceInbounceIn"  data-wow-delay="400ms" data-wow-iteration="2"> <i class="ion-ios7-people bg_color_3"></i> </div>
-                    <h4>Perfect Teachers</h4>
-                    <p>Who is UFG: UFG was started by a young man in San Bernardino who witnessed a lot of his college peers wasting the money that they received from FAFSA and/or their parents. He noticed that they were spending this loaned money on Vegas trips, parties, clothes, and other things that were irrelevant to their future. Those poor financial habits continued as they advanced in their lives and careers. Now UFG is built and managed by young adults who know what it’s like in today’s world, being influenced by so many social and political factors. UFG members are college students, high school students, young parents, young men and women who have held mediocre jobs while they dreamt of long term careers. UFG is youth teaching youth, working together to rise up against the new slavery: Debt. </p>
+                    <h4>Who is UFG</h4>
+                    <p>UFG was started by a young man in San Bernardino who witnessed a lot of his college peers wasting the money that they received from FAFSA and/or their parents. He noticed that they were spending this loaned money on Vegas trips, parties, clothes, and other things that were irrelevant to their future. Those poor financial habits continued as they advanced in their lives and careers. Now UFG is built and managed by young adults who know what it’s like in today’s world, being influenced by so many social and political factors. UFG members are college students, high school students, young parents, young men and women who have held mediocre jobs while they dreamt of long term careers. UFG is youth teaching youth, working together to rise up against the new slavery: Debt. </p>
                   </li>
                   
                   <!--======= ICONS =========-->
                   <li class="col-md-6">
                     <div class="icon  wow bounceIn" data-wow-delay="600ms" data-wow-iteration="2"> <i class="ion-hammer bg_color_3"></i> </div>
-                    <h4>Easy Settings</h4>
-                    <p>Why UFG: UFG aims to fill in the missing piece of the educational framework that currently molds our youth. Where math class teaches you how to count money, UFG teaches how to use it as a tool in life. Where economics teaches you how money flows through society, UFG teaches you how manage your own cash flow without getting in debt. Where school teaches you how you can make money for the rest of your life, UFG teaches how to work with the money you make to build a successful future and be a positive influence to those around you.</p>
+                    <h4>Why UFG</h4>
+                    <p>UFG aims to fill in the missing piece of the educational framework that currently molds our youth. Where math class teaches you how to count money, UFG teaches how to use it as a tool in life. Where economics teaches you how money flows through society, UFG teaches you how manage your own cash flow without getting in debt. Where school teaches you how you can make money for the rest of your life, UFG teaches how to work with the money you make to build a successful future and be a positive influence to those around you.</p>
                   </li>
                   
                   <!--======= ICONS =========-->
                   <li class="col-md-6">
                     <div class="icon  wow bounceIn" data-wow-delay="800ms" data-wow-iteration="2s"> <i class="ion-filing bg_color_3"></i> </div>
-                    <h4>Free Lesson Store</h4>
-                    <p>How does UFG work: UFG is prevention, not intervention. Our goal is to avoid debt and build a lasting future; to develop good financial habits before bad ones are instilled and harder to break. UFG works by raising young people to be prepared men and women of a successful financial future. UFG hosts seminars, providing this education, in high schools and in colleges.</p>
+                    <h4>How does UFG work</h4>
+                    <p>UFG is prevention, not intervention. Our goal is to avoid debt and build a lasting future; to develop good financial habits before bad ones are instilled and harder to break. UFG works by raising young people to be prepared men and women of a successful financial future. UFG hosts seminars, providing this education, in high schools and in colleges.</p>
                   </li>
                 </ul>
               </div>
             </div>
-            <div class="col-md-4"> 
-              
-              <!--======= REGISTER OR LOGIN SECTION =========-->
-              <div class="account">
-                <h4 class="border">Learn<span>Go</span> Settings Features</h4>
-                <p>Learn from your House login or register</p>
-                <div class="features_services">
-                  <nav>
-                    <ul class="nav nav-pills">
-                      <li class="active wow fadeInUp" data-wow-delay="200ms"><a href="#register" class="btn" data-toggle="tab">Register</a></li>
-                      <li> <span>OR</span></li>
-                      <li class="wow fadeInUp" data-wow-delay="400ms"><a href="#login" class="btn btn_orange" data-toggle="tab">LOGIN</a></li>
-                    </ul>
-                  </nav>
-                  <!-- Tab panes -->
-                  <div class="tab-content"> 
-                    
-                    <!--======= REGISTER =========-->
-                    <div class="tab-pane fade in active" id="register">
-                      <div class="form">
-                        <form role="form">
-                          <div class="form-group">
-                            <input type="text" class="form-control"  placeholder="Name">
-                          </div>
-                          <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Enter email address">
-                          </div>
-                          <div class="form-group">
-                            <input type="password" class="form-control"  placeholder="**********">
-                          </div>
-                          <div class="form-group">
-                            <select class="form-control">
-                              <option>Select a learning option</option>
-                            </select>
-                          </div>
-                          <button type="submit" class="btn">REGISTER</button>
-                        </form>
-                      </div>
-                    </div>
-                    
-                    <!--======= LOGIN =========-->
-                    <div class="tab-pane fade" id="login">
-                      <div class="form">
-                        <form role="form">
-                          <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Enter email address">
-                          </div>
-                          <div class="form-group">
-                            <input type="password" class="form-control"  placeholder="**********">
-                          </div>
-                          <button type="submit" class="btn">LOGIN</button>
-                        </form>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
