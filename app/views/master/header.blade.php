@@ -16,8 +16,6 @@
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="#banner">HOME</a></li>
                 <li><a href="#det_fea">About</a></li>
-                <li><a href="#process">Process </a></li>
-                <li><a href="#testimonial">Testimonials </a></li>
                 <li><a href="#footer">Contact </a></li>
               </ul>
             </div>
