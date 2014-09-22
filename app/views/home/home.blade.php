@@ -122,29 +122,6 @@
       </div>
     </section>
     
-    <!--======= Achievements Section =========-->
-    <section id="process" class="bg_color_2">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6"> <img class="img-responsive" src="theme/images/hand_iphone.png" alt=""> </div>
-          <div class="col-md-2">
-            <ul class="icon_sec wow flipInX" data-wow-delay="400ms">
-              <li class="icon"> <i class="ion-ios7-filing"></i> </li>
-              <li class="icon"> <i class="ion-android-stopwatch"></i> </li>
-              <li class="icon"> <i class="ion-card"></i> </li>
-            </ul>
-          </div>
-          <div class="col-md-4">
-            <h3><span>Learn</span> Process</h3>
-              <p>Young adults in high school who are planning to attend college will be shown how to maintain any income or earnings received during their college career. (Financial aid, grants, etc.) </p>
-              <p>Students from K-8 will also receive guidance through the lessons in children’s books, activities, and games, teaching the lost value of saving and planning for the future</p>
-              <p>In the process of teaching the young children, parents can also be educated on how they can plan for a better future not only for themselves but their children as well.</p>
-            <div class="clearfix"></div>
-          </div>
-        </div>
-      </div>
-    </section>
-    
     <!--======= Video Section =========-->
     <section id="vedio">
       <div class="container">
