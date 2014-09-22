@@ -1,7 +1,4 @@
 <section id="footer" class="bg_color_4">
-    <ul class="social_icons">
-      <li class="facebook wow fadeInUpBig" data-wow-delay="100ms"> <a href="http://www.facebook.com/ufguidance"><i class="ion-social-facebook"></i> </a> </li>
-    </ul>
     <div class="links">
     <nav>
       <ul>
