@@ -82,8 +82,8 @@
     <!--======= Perfect Analitic Lessons =========-->
     <section id="lesson" class="bg_color_3">
       <div class="container">
-        <h2 class="wow tada" data-wow-delay="200ms">Perfect <span>Analitic Lessons</span></h2>
-        <p class="wow tada" data-wow-delay="400ms">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dua has been...</p>
+        <h2 class="wow tada" data-wow-delay="200ms">Process <span>Plan</span></h2>
+        <p class="wow tada" data-wow-delay="400ms"> Educarte your self - Get Guidance - Implement Plan </p>
         <div id="owl-learn" class="owl-carousel owl-theme"> 
           
           <!--======= Slide 1 =========-->
@@ -93,8 +93,7 @@
               <div class="icon"> <i class="ion-android-data"></i> </div>
               <h3>Perfect Lessons System</h3>
               <div class="clearfix"></div>
-              <p class="padding20_top">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse est odioconva has been the industry's standard dummy text ever since the 1500s, when an.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse est odioconvallis. </p>
-              <a href="#." class="btn">Check out our library </a> </div>
+              <p class="padding20_top">Young adults in high school who are planning to attend college will be shown how to maintain any income or earnings received during their college career. (Financial aid, grants, etc.) </p>
           </div>
           
           <!--======= SLIDE 2 =========-->
@@ -104,8 +103,7 @@
               <div class="icon"> <i class="ion-android-data"></i> </div>
               <h3>Perfect Lessons System</h3>
               <div class="clearfix"></div>
-              <p class="padding20_top">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse est odioconva has been the industry's standard dummy text ever since the 1500s, when an.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse est odioconvallis. </p>
-              <a href="#." class="btn">Check out our library </a> </div>
+              <p class="padding20_top">Students from K-8 will also receive guidance through the lessons in children’s books, activities, and games, teaching the lost value of saving and planning for the future</p>
           </div>
           
           <!--======= SLIDE 2 =========-->
@@ -115,8 +113,7 @@
               <div class="icon"> <i class="ion-android-data"></i> </div>
               <h3>Perfect Lessons System</h3>
               <div class="clearfix"></div>
-              <p class="padding20_top">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse est odioconva has been the industry's standard dummy text ever since the 1500s, when an.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse est odioconvallis. </p>
-              <a href="#." class="btn">Check out our library </a> </div>
+              <p class="padding20_top">In the process of teaching the young children, parents can also be educated on how they can plan for a better future not only for themselves but their children as well.</p>
           </div>
         </div>
       </div>
