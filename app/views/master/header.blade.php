@@ -1,6 +1,6 @@
 <header>
     <div class="container">
-      <div class="logo"> <a href="#wrap"> <img src="theme/images/logo.png" alt=""> </a> </div>
+      <div class="logo"> <a href="#wrap"> <img height="30" width="150" src="theme/images/logo.png" alt=""> </a> </div>
       <ul class="social_icons">
         <li  class="facebook"> <a href="http://www.facebook.com/ufguidance"><i class="ion-social-facebook"></i> </a> </li>
 
