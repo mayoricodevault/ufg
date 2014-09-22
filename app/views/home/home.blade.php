@@ -83,7 +83,7 @@
     <section id="lesson" class="bg_color_3">
       <div class="container">
         <h2 class="wow tada" data-wow-delay="200ms">Process <span>Plan</span></h2>
-        <p class="wow tada" data-wow-delay="400ms"> Educarte your self - Get Guidance - Implement Plan </p>
+        <p class="wow tada" data-wow-delay="400ms"> Educate your self - Get Guidance - Implement Plan </p>
         <div id="owl-learn" class="owl-carousel owl-theme"> 
           
           <!--======= Slide 1 =========-->
