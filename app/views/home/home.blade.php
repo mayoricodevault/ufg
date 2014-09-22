@@ -111,4 +111,11 @@
         s.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
+
+    window.doorbellOptions = {
+        appKey: 'QkAFkToVyHoV8FWzTbbfYUZx9eaOCjCUhPxG3dL7ZtoS0Fu4TnDmhxs23lxqo2h4'
+    };
+    (function(d, t) {
+        var g = d.createElement(t);g.id = 'doorbellScript';g.type = 'text/javascript';g.async = true;g.src = 'https://doorbell.io/button/348';(d.getElementsByTagName('head')[0]||d.getElementsByTagName('body')[0]).appendChild(g);
+    }(document, 'script'));
 </script>
